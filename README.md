@@ -1,7 +1,7 @@
 # Movie-Genre-Classification-From-Poster-Images
 This project was developed for NCSU Masters degree for Neural Network Course
 
-# The main goal of this project is to validate if we are able to predict the movie genre just from Image posters, this project uses a Neural Network to perform that process. 
+The main goal of this project is to validate if we are able to predict the movie genre just from Image posters, this project uses a Neural Network to perform that process. 
 
 Data Info: 
 Current dataset contains 39,515 JPEG images
