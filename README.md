@@ -10,4 +10,7 @@ Model Info:
 Transfer learning vs Convolutional Neural Network (CNN)
 
 The video generated for this project is in the following link: 
-ttps://youtu.be/26bT9HutdYk
+
+https://www.youtube.com/watch?v=26bT9HutdYk
+
+
